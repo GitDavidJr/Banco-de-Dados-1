@@ -1,0 +1,83 @@
+codigo,nome,descricao,status_produto,valor_unitario_total,fk_pedido_numero_do_pedido
+1,"Plotagem Capô de Carro","Plotagem de capô de carro 50x30","em producao",120.00,PED0001
+2,"Fachada de ACM","Fachada de ACM 2x1.5 metros","em producao",850.00,PED0001
+3,"Plotagem de Lona","Plotagem em lona 1.50x0.80 metros","em producao",200.00,PED0002
+4,"Adesivo Vinil","Adesivo Vinil para comunicação visual","em producao",150.00,PED0002
+5,"Fachada de ACM","Fachada de ACM 3x2 metros","em producao",900.00,PED0003
+6,"Adesivo Impressão Digital","Adesivo impresso em material digital 50x30","em producao",100.00,PED0004
+7,"Plotagem de Carro","Plotagem personalizada 1.20x0.80 metros","em producao",250.00,PED0004
+8,"Fachada de ACM","Fachada de ACM com acabamento de alta resistência","em producao",1100.00,PED0005
+9,"Plotagem Banner","Banner impresso com design personalizado","em producao",220.00,PED0006
+10,"Fachada Luminosa","Fachada luminosa em ACM 3x1 metros","em producao",1050.00,PED0007
+11,"Adesivo Impressão Digital","Adesivo de impressão digital 80x60","em producao",150.00,PED0007
+12,"Fachada de ACM","Fachada com acabamento detalhado em ACM 2x1.5 metros","em producao",1200.00,PED0008
+13,"Plotagem de Lona","Plotagem em lona 2x1 metros","em producao",180.00,PED0009
+14,"Fachada de Policarbonato","Fachada em policarbonato 2x2 metros","em producao",950.00,PED0009
+15,"Plotagem de Carro","Plotagem para carro com adesivo vinil 1.5x0.80 metros","em producao",200.00,PED0010
+16,"Fachada de ACM","Fachada de ACM 2.5x1.5 metros","em producao",1300.00,PED0011
+17,"Adesivo Vinil","Adesivo vinil personalizado para loja","em producao",120.00,PED0011
+18,"Plotagem de Lona","Plotagem de lona 1.5x1 metros","em producao",250.00,PED0012
+19,"Fachada de ACM","Fachada com acabamento em alumínio composto 2.5x2 metros","em producao",1200.00,PED0013
+20,"Plotagem de Carro","Plotagem do capô do carro 50x30","em producao",150.00,PED0014
+21,"Adesivo Impressão Digital","Adesivo com impressão digital 1x0.5 metros","em producao",180.00,PED0014
+22,"Fachada de ACM","Fachada luminosa de ACM 3x1 metros","em producao",1400.00,PED0015
+23,"Plotagem de Lona","Plotagem de lona para fachada de loja 2x1 metros","em producao",220.00,PED0016
+24,"Fachada de Policarbonato","Fachada em policarbonato 2x1 metros","em producao",1000.00,PED0017
+25,"Plotagem Banner","Banner de lona 1.5x0.80 metros","em producao",170.00,PED0017
+26,"Plotagem Capô de Carro","Plotagem de capô 50x30","em producao",120.00,PED0018
+27,"Adesivo Vinil","Adesivo vinil para comunicação visual 1.5x0.5 metros","em producao",150.00,PED0018
+28,"Fachada de ACM","Fachada de ACM 3x2 metros com acabamento sofisticado","em producao",1400.00,PED0019
+29,"Plotagem de Lona","Plotagem de lona 2x1.5 metros para outdoor","em producao",230.00,PED0020
+30,"Adesivo Impressão Digital","Adesivo impresso para fachada 1.5x0.8 metros","em producao",180.00,PED0020
+31,"Fachada de Policarbonato","Fachada de policarbonato 2x2 metros","em producao",950.00,PED0021
+32,"Plotagem de Carro","Plotagem de capô de carro 60x40","em producao",160.00,PED0021
+33,"Fachada Luminosa","Fachada luminosa de ACM 2x1 metros","em producao",1200.00,PED0022
+34,"Plotagem de Lona","Plotagem de lona 1.5x1 metros","em producao",220.00,PED0022
+35,"Plotagem Banner","Banner impresso para evento 1.5x0.80 metros","em producao",250.00,PED0023
+36,"Adesivo Vinil","Adesivo vinil para vitrine 1.2x0.8 metros","em producao",130.00,PED0024
+37,"Fachada de ACM","Fachada de ACM 2x2 metros","em producao",1300.00,PED0024
+38,"Plotagem de Lona","Plotagem de lona para fachada de loja 2x1 metros","em producao",250.00,PED0025
+39,"Fachada de Policarbonato","Fachada com acabamento em Policarbonato 2x1 metros","em producao",950.00,PED0026
+40,"Fachada de ACM","Fachada de ACM 2x1.5 metros para loja","em producao",1150.00,PED0027
+41,"Plotagem de Lona","Plotagem em lona 2x1 metros para evento","em producao",220.00,PED0027
+42,"Plotagem de Carro","Plotagem para carro 1.20x0.60 metros","em producao",180.00,PED0028
+43,"Fachada de ACM","Fachada com revestimento de ACM 3x2 metros","em producao",1300.00,PED0029
+44,"Plotagem Banner","Banner de lona 2x1 metros","em producao",210.00,PED0029
+45,"Fachada Luminosa","Fachada luminosa de ACM para loja 3x1 metros","em producao",1500.00,PED0030
+46,"Plotagem de Lona","Plotagem de lona 2x1.5 metros para fachada","em producao",240.00,PED0031
+47,"Adesivo Vinil","Adesivo vinil 1x0.5 metros para parede","em producao",100.00,PED0031
+48,"Plotagem Capô de Carro","Plotagem de capô de carro 50x30","em producao",120.00,PED0032
+49,"Fachada de Policarbonato","Fachada de policarbonato 2x1 metros","em producao",950.00,PED0032
+50,"Fachada de ACM","Fachada de ACM com acabamento em alumínio composto","em producao",1350.00,PED0033
+51,"Plotagem Banner","Banner impresso para evento 2x1 metros","em producao",200.00,PED0033
+52,"Fachada Luminosa","Fachada de ACM luminosa 3x1 metros","em producao",1400.00,PED0034
+53,"Plotagem de Lona","Plotagem de lona 1.5x1 metros para evento","em producao",220.00,PED0035
+54,"Adesivo Impressão Digital","Adesivo impresso para comunicação visual","em producao",180.00,PED0035
+55,"Fachada de Policarbonato","Fachada em policarbonato 2x2 metros","em producao",950.00,PED0036
+56,"Plotagem de Carro","Plotagem de capô 50x30","em producao",130.00,PED0037
+57,"Fachada de ACM","Fachada de ACM 2x1 metros","em producao",1200.00,PED0037
+58,"Fachada de ACM","Fachada de ACM para fachada de loja 2.5x1 metros","em producao",1300.00,PED0038
+59,"Adesivo Vinil","Adesivo vinil 1.2x0.8 metros para loja","em producao",150.00,PED0038
+60,"Fachada de Policarbonato","Fachada de policarbonato para loja 3x1 metros","em producao",1200.00,PED0039
+61,"Plotagem de Lona","Plotagem de lona 1.5x0.8 metros","em producao",180.00,PED0039
+62,"Plotagem de Carro","Plotagem para carro 60x40","em producao",160.00,PED0040
+63,"Fachada Luminosa","Fachada luminosa de ACM para evento 3x1 metros","em producao",1400.00,PED0040
+64,"Plotagem Banner","Banner impresso 1.5x1 metros","em producao",220.00,PED0041
+65,"Adesivo Impressão Digital","Adesivo impresso para vitrine 1.2x0.5 metros","em producao",100.00,PED0041
+66,"Fachada de ACM","Fachada de ACM 3x2 metros para loja","em producao",1500.00,PED0042
+67,"Plotagem de Lona","Plotagem de lona 2x1.5 metros para fachada","em producao",240.00,PED0042
+68,"Fachada de Policarbonato","Fachada de policarbonato 2x2 metros com acabamento","em producao",950.00,PED0043
+69,"Plotagem de Carro","Plotagem para capô de carro 50x30","em producao",120.00,PED0043
+70,"Fachada Luminosa","Fachada luminosa de ACM para loja 3x1 metros","em producao",1300.00,PED0044
+71,"Plotagem Banner","Banner de lona 2x1 metros para evento","em producao",200.00,PED0044
+72,"Plotagem de Lona","Plotagem de lona 1.5x1 metros para evento","em producao",230.00,PED0045
+73,"Fachada de ACM","Fachada de ACM 2x1.5 metros para loja","em producao",1200.00,PED0046
+74,"Adesivo Vinil","Adesivo vinil 1.5x0.5 metros","em producao",150.00,PED0046
+75,"Plotagem de Carro","Plotagem para capô de carro 60x40","em producao",150.00,PED0047
+76,"Fachada de Policarbonato","Fachada de policarbonato 2x1 metros","em producao",950.00,PED0047
+77,"Fachada Luminosa","Fachada luminosa de ACM para loja 3x2 metros","em producao",1400.00,PED0048
+78,"Plotagem Banner","Banner para evento 2x1 metros","em producao",220.00,PED0048
+79,"Plotagem de Lona","Plotagem de lona 2x1 metros para evento","em producao",250.00,PED0049
+80,"Adesivo Impressão Digital","Adesivo de impressão digital para fachada 1.5x0.8 metros","em producao",180.00,PED0049
+81,"Fachada de Policarbonato","Fachada de policarbonato 2x1 metros","em producao",950.00,PED0050
+82,"Plotagem de Carro","Plotagem para capô de carro 50x30","em producao",120.00,PED0050

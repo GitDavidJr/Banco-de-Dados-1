@@ -1,0 +1,11 @@
+id,nome,cpf,telefone,endereco,tempo_experiencia_profissional_ano,especializacao,funcionario_tipo
+1,"João Silva",12345678901,11987654321,"Rua A, 123",3,Vendas,vendedor
+2,"Maria Oliveira",23456789012,11976543210,"Rua B, 456",5,Vendas,vendedor
+3,"Carlos Pereira",34567890123,11965432109,"Rua C, 789",4,Vendas,vendedor
+4,"Ana Souza",45678901234,11954321098,"Rua D, 101",2,Vendas,vendedor
+5,"Pedro Santos",56789012345,11943210987,"Rua E, 112",7,Marketing,produtor
+6,"Juliana Lima",67890123456,11932109876,"Rua F, 223",6,"Criação de Conteúdo",produtor
+7,"Ricardo Gomes",78901234567,11921098765,"Rua G, 334",8,"Gestão de Projetos",produtor
+8,"Larissa Rocha",89012345678,11910987654,"Rua H, 445",4,Desenvolvimento,produtor
+9,"Felipe Almeida",90123456789,11909876543,"Rua I, 556",9,"Design Gráfico",produtor
+10,"Tatiane Costa",01234567890,11908765432,"Rua J, 667",10,"Gestão de Equipe",produtor

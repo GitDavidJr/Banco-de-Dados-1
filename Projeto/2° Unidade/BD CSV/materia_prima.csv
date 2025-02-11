@@ -1,0 +1,11 @@
+cod_materia_prima,nome,valor_unit,qtd_minima,qtd_maxima
+1,"Material de Alumínio Composto (ACM)",450.00,1,100
+2,"Metalon 20x20 na chapa 18",50.00,1,150
+3,"Metalon 20x30 na chapa 18",60.00,1,150
+4,"Lona de Impressão Digital",700.00,1,100
+5,"Adesivo Vinil",425.00,1,100
+6,"Adesivo Impressão Digital",530.00,1,100
+7,Policarbonato,450.00,1,100
+8,"Poliestireno Extrudado (XPS)",79.00,1,100
+9,"Acrílico Cast Cristal 2mm",219.00,1,100
+10,"PVC Expandido 2mm",69.00,1,100
