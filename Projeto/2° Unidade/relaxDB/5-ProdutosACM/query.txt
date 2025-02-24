@@ -1,0 +1,3 @@
+temp1 = π fk_produto_codigo, materia_prima.nome(composicao ⨝ fk_materia_prima_cod_materia_prima = materia_prima.cod_materia_prima materia_prima)
+temp2 = π materia_prima.nome → materiaprima, produto.codigo → produtoss(temp1 ⨝ fk_produto_codigo = produto.codigo produto)
+π produto.nome → produtos_que_utilizam_ACM (σ materiaprima = 'Material de Alumínio Composto (ACM)'(temp2 ⨝ produtoss = produto.codigo produto))

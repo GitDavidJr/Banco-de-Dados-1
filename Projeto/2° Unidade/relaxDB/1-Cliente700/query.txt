@@ -1,0 +1,1 @@
+π nome, cpf, valor_total(σ valor_total > 700.00 ∧ YEAR(data_pedido) = 2025 (pedido ⨝ fk_cliente_id = clientes.id clientes))

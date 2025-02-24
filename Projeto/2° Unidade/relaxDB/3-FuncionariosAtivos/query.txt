@@ -1,0 +1,1 @@
+π nome, especializacao, funcionario_tipo, tempo_experiencia_profissional_ano(σ especializacao ≠ null ∧ tempo_experiencia_profissional_ano ≠ null(funcionario)) 

@@ -1,0 +1,2 @@
+temp1 = π fk_funcionario_id,fk_produto_codigo, produto.nome(produz ⨝ fk_produto_codigo = produto.codigo produto)
+π funcionario.nome, produto.nome(funcionario ⨝ funcionario.id = fk_funcionario_id temp1)

@@ -1,0 +1,1 @@
+π clientes.nome → Cliente , clientes.id → id, pedido.desconto → Porcentagem_desconto(σ desconto > 15 (pedido ⋈ fk_cliente_id = clientes.id clientes))
